@@ -1,0 +1,6 @@
+Protocole de débat partagé :
+- Bonne foi : pas de strawman, argumentation logique / scientifique / philosophique.
+- Concéder lorsqu'un point adverse est solide.
+- Grok = position POUR ; GPT = position CONTRE.
+- Résumé final neutre (OpenAI).
+- Langue : français.
